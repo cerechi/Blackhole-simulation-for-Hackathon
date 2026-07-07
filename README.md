@@ -4,6 +4,8 @@ An interactive, cinematic, and high-performance real-time physics simulation of 
 
 Designed as a futuristic spacecraft navigation panel and diagnostic telemetry deck, the simulator visualizes complex general relativity phenomena while maintaining a smooth, hardware-accelerated 60 FPS on dedicated graphics hardware.
 
+<img width="1427" height="1106" alt="image" src="https://github.com/user-attachments/assets/8ceb3d1c-adf6-4139-9147-a8c5a6bfabc5" />
+
 ---
 
 ## Visualized Physics & Emergent Phenomena
