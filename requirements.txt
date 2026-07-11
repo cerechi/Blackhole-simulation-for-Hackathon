@@ -1,0 +1,4 @@
+dearpygui>=1.10
+moderngl>=5.10
+numpy>=1.24
+taichi>=1.6
